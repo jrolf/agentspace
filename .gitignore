@@ -56,6 +56,11 @@ htmlcov/
 # Research materials (internal, not part of the package)
 _research/
 
+# AI tools
+.cursor/
+.claude/
+*.mdc
+
 # Ruff / linting
 .ruff_cache/
 

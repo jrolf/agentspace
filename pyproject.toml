@@ -10,7 +10,10 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
 authors = [
-    {name = "James Rolfsen", email = "james@think.dev"},
+    {name = "James A. Rolfsen", email = "james@think.dev"},
+]
+maintainers = [
+    {name = "James A. Rolfsen", email = "james@think.dev"},
 ]
 keywords = [
     "ai",
@@ -41,6 +44,7 @@ dependencies = [
 Homepage = "https://github.com/jrolf/agentspace"
 Repository = "https://github.com/jrolf/agentspace"
 Issues = "https://github.com/jrolf/agentspace/issues"
+Changelog = "https://github.com/jrolf/agentspace/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = [
